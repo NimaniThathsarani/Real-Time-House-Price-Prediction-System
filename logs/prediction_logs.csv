@@ -1,0 +1,6 @@
+district,area,bedrooms,bathrooms,predicted_price,timestamp
+Colombo,Colombo 03,3,2,38639118.17,2026-05-26 19:07:17.783770
+Colombo,Colombo 03,3,2,38615372.17,2026-05-26 19:10:57.654943
+Colombo,Colombo 07,3,2,38615372.17,2026-05-26 19:11:10.762857
+Colombo,Colombo 07,3,2,38516319.1,2026-05-26 19:11:23.417288
+Colombo,Colombo 07,8,5,48169219.12,2026-05-26 19:11:47.731417

@@ -1,50 +1,32 @@
 # Python cache
-
-**pycache**/
+__pycache__/
 *.pyc
 
 # Virtual environments
-
 venv/
 .env/
 
 # Environment variables
-
 .env
 
 # Jupyter Notebook checkpoints
-
 .ipynb_checkpoints/
 
-# ML models
-
-*.pkl
-
 # MLflow files
-
 mlruns/
 
 # Mac system files
-
 .DS_Store
 
 # VS Code settings
-
 .vscode/
 
 # Logs
-
 *.log
 
 # Temporary files
-
 temp/
 tmp/
 
-# Processed data
-
-# data/processed/
-
 # Docker
-
 *.tar

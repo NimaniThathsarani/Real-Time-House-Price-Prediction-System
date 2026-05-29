@@ -54,7 +54,7 @@ Real-Time-House-Price-Prediction-System/
 Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/NimaniThathsarani/Real-Time-House-Price-Prediction-System.git
 cd Real-Time-House-Price-Prediction-System
 ```
 
